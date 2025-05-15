@@ -10,12 +10,10 @@ Step 2 download this github repo as a zip file by clicking th green code button 
 
 Step 3 Unzip the file in windows file explorer
 
-Step 4 Right click to Open a new terminal window in that folder
+Step 4 Navigate into the folder you just unzipped
 
-Step 5 Type npm install
+Step 5 run start.bat
 
-Step 6 Type node server.js
+Step 6 Thats it! Yeay!!!
 
-Step 7 Thats it! Yeay!!!
-
-Step 8 Open http://localhost:3000 in your browser to launch the web ui
+Step 7 Open http://localhost:3000 in your browser to launch the web ui
