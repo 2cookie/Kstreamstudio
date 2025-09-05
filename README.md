@@ -17,3 +17,20 @@ Step 5 run start.bat
 Step 6 Thats it! Yeay!!!
 
 Step 7 Open http://localhost:3000 in your browser to launch the web ui
+
+Features:
+
+Simple one click setup script just intall node js and youre good to go!
+
+Very simple 100% powered by web technologys and node js
+
+Can be used on anything with a webbrowser even irl displays!
+
+For advanced users all client side html can be easiley edited without making changes to the server
+
+Very small code base super easy to read and modify
+
+Support:
+
+Email 2cookie@2cookie.com
+Discord 2cookie_79518
