@@ -3,7 +3,25 @@ const http = require('http');
 const socketIo = require('socket.io');
 const cors = require('cors');
 const path = require('path');
+//sentry 
 
+// Import with `import * as Sentry from "@sentry/node"` if you are using ESM
+const Sentry = require("@sentry/node");
+
+Sentry.init({
+  dsn: "http://127.0.0.1",
+  // Setting this option to true will send default PII data to Sentry.
+  // For example, automatic IP address collection on events
+  tracesSampleRate: 1.0, //  Capture 100% of the transactions
+  sendDefaultPii: true,
+});
+//int error
+try {
+  // mycatuwu();
+  console.log("Sentry connected")
+} catch (e) {
+  Sentry.captureException(e);
+}
 const app = express();
 const server = http.createServer(app);
 const io = socketIo(server, {
