@@ -9,7 +9,7 @@ const path = require('path');
 const Sentry = require("@sentry/node");
 
 Sentry.init({
-  dsn: "http://127.0.0.1",
+  dsn: "http://127.0.0.1", //replace this with your sentry link
   // Setting this option to true will send default PII data to Sentry.
   // For example, automatic IP address collection on events
   tracesSampleRate: 1.0, //  Capture 100% of the transactions
@@ -55,3 +55,4 @@ server.listen(3000, () => {
   console.log('Server started on port 3000');
   console.log('visit http://localhost:3000 in your web browser to access the web ui 🌐');
 });
+
