@@ -36,3 +36,6 @@ Discord: 2cookie_79518
 # Credits:
 2cookie for uh eisting i guess
 Parrotlulz for fixing my shitshow of a codebase + adding linux support
+
+
+<img width="111" height="70" alt="image" src="https://github.com/2cookie/2cookie/blob/main/Created-By-Humans-Not-By-AI-Badge-white@2x.png?raw=true" />
