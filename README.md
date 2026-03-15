@@ -31,11 +31,12 @@ Easily display the current song for karoke streaming or just background music :D
 - For advanced users all client side html can be easiley edited without making changes to the server
 - Very small code base super easy to read and modify
 Support:
-Email: 2cookie@2cookie.com
+Email: qaandrain@outlook.com
 Discord: 2cookie_79518
 # Credits:
 2cookie for uh eisting i guess
 Parrotlulz for fixing my shitshow of a codebase + adding linux support
 
-
-<img width="111" height="70" alt="image" src="https://github.com/2cookie/2cookie/blob/main/Created-By-Humans-Not-By-AI-Badge-white@2x.png?raw=true" />
+<a href="https://notbyai.fyi">
+<img width="111" height="90" alt="image" src="https://github.com/2cookie/2cookie/blob/main/Created-By-Humans-Not-By-AI-Badge-white@2x.png?raw=true" href="https://notbyai.fyi/" />
+</a>
