@@ -33,3 +33,6 @@ Easily display the current song for karoke streaming or just background music :D
 Support:
 Email: 2cookie@2cookie.com
 Discord: 2cookie_79518
+# Credits:
+2cookie for uh eisting i guess
+Parrotlulz for fixing my shitshow of a codebase + adding linux support
