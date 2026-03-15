@@ -1,23 +1,16 @@
 # Kstreamstudio
 Node JS Song display app for streaming
 
-Easiley display the current song for karoke streaming or just background music :D
+Easily display the current song for karoke streaming or just background music :D
 
-#Lets get started!
-Step 1 download node js from https://nodejs.org/en/download
-
-Step 2 download this github repo as a zip file by clicking th green code button at the top and then click download zip
-
-Step 3 Unzip the file in windows file explorer
-
-Step 4 Navigate into the folder you just unzipped
-
-Step 5 run start.bat
-
-Step 6 Thats it! Yeay!!!
-
-Step 7 Open http://localhost:3000 in your browser to launch the web ui
-
+# Installation
+# For Windows user:
+- Step 1: install nodejs from https://nodejs.org/en/download
+- Step 2: click the <img width="111" height="34" alt="image" src="https://github.com/user-attachments/assets/d004e253-0842-49bc-81f8-34e22ede3b23" /> button, then click "Download ZIP"
+- Step 3: Unzip the file
+- Step 4: Navigate to the "Kstreamaudio-main" folder
+- Step 5: Run the "start.bat" file
+- Step 6: Go to http://localhost:3000 for the dashboard
 Features:
 
 Simple one click setup script just intall node js and youre good to go!
