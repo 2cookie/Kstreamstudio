@@ -24,7 +24,7 @@ Easily display the current song for karoke streaming or just background music :D
 - Step 4: Run "chmod +x start.sh"
 - Step 5: Run "./start.sh" to start the server
 - Step 6: Go to http://localhost:3000 to view the dashboard
-Features:
+# Features:
 - Simple one click setup script just intall node js and youre good to go!
 - Very simple 100% powered by web technologys and node js
 - Can be used on anything with a webbrowser even irl displays!
